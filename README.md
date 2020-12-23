@@ -14,6 +14,6 @@ My name is Soham Dongargaonkar and I'm an incoming software developer @MotorolaS
   - [I Switched from Dashlane to Bitwarden and Why You Should, Too](https://a3y3.dev/2020/12/14/switching-to-bitwarden.html)
   
 - 📫 Find me on:
-  - [My website](a3y3.dev/)
+  - [My website](https://a3y3.dev/)
   - [LinkedIn](https://www.linkedin.com/in/soham-dongargaonkar/)
   - [Twitter](https://twitter.com/sohamssd)
