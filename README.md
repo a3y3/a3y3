@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-My name is Soham Dongargaonkar and I'm an incoming software developer @MotorolaSolutions 
+My name is Soham Dongargaonkar and I'm a software engineer at Motorola Solutions. 
 
 
 - 🔭 I’m currently working on:
-  - Finishing my master's degree at [RIT](https://www.rit.edu/).
-  - Learning Rust
-  - Learning WebRTC to build a toy video chat app.
+  - (Re?) Learning Rust 🦀
   
 - 🌱 Check out some of my blog posts:
   - [Save time by deploying your microservices to GCP in parallel](https://a3y3.dev/2020/07/26/faster-gae-deploys.html)
