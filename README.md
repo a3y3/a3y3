@@ -4,7 +4,8 @@ My name is Soham Dongargaonkar and I'm a software engineer at Motorola Solutions
 
 
 - 🔭 I’m currently working on:
-  - (Re?) Learning Rust 🦀
+  - Learning Go
+  - Learning Distributed Systems from this [fantastic online course](https://pdos.csail.mit.edu/6.824/schedule.html)
   
 - 🌱 Check out some of my blog posts:
   - [Save time by deploying your microservices to GCP in parallel](https://a3y3.dev/2020/07/26/faster-gae-deploys.html)
