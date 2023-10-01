@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Soham Dongargaonkar and I'm a software engineer at Motorola Solutions. 
+My name is Soham Dongargaonkar and I'm a software engineer at Visa. 
 
 
 - 🔭 I’m currently working on:
