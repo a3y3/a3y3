@@ -4,8 +4,9 @@ My name is Soham Dongargaonkar and I'm a software engineer at Visa.
 
 
 - 🔭 I’m currently working on:
-  - Learning Go
-  - Learning Distributed Systems from this [fantastic online course](https://pdos.csail.mit.edu/6.824/schedule.html)
+  - Working at Suki AI
+  - Creating a Logger that allows you to indent logs at different levels, just the way you indent code
+  - Creating a Kafka like distributed pub/sub system from scratch in Rust
   
 - 🌱 Check out some of my blog posts:
   - [Building my own distributed Key/Value Store](https://a3y3.dev/distributed-systems/2022/07/24/kv-store.html)
